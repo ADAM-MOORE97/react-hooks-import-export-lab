@@ -1,4 +1,5 @@
 import React from "react";
+import {username, city} from '/home/adammoore/Development/phase-2-code/react-hooks-import-export-lab/src/data/user.js'
 
 function Home() {
   return (
@@ -9,3 +10,4 @@ function Home() {
     </div>
   );
 }
+export default Home;
